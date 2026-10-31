@@ -4,7 +4,7 @@ Módulo de cálculos matemáticos básicos do **FinançApp**, startup fictícia 
 
 > **Aluno:** Thalysson Sergio Fernandes Soares — RA 252007
 > **Curso:** Análise e Desenvolvimento de Sistemas — FACENS
-> **Repositório:** https://github.com/SEU-USUARIO/projeto_calculadora
+> **Repositório:** https://github.com/thalyssxn/projeto_calculadora
 
 ---
 
@@ -136,4 +136,4 @@ A documentação HTML foi gerada com JavaDoc na pasta [`docs/`](docs/). Para vis
 
 ## Link do repositório
 
-https://github.com/SEU-USUARIO/projeto_calculadora
+https://github.com/thalyssxn/projeto_calculadora
